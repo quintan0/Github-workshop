@@ -4,6 +4,6 @@
 - Locatie: REA Leiden
 - Datum: 24 mei 2024
 
-> dit is een hele mooie zin om een citaat te maken.
+> “An abnormal reaction to an abnormal situation is normal behavior,”
 >
-> niet vergeten ferrets zijn fantastisch.
+> -Viktor Frankl
